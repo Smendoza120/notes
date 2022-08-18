@@ -3,7 +3,7 @@ Crearemos un app de notas.
     Paso a paso.
     1. Creamos una carpeta.
     2. La inicializamos.
-    3. Subimos la carpeta a un repositori github.
+    3. Subimos la carpeta a un repositorio github.
     4. Inicializamos con (npm)
     5. Instalamos los 2 paquetes (express y nodemon)
     6. Express sera una dependencia (npm i express).
